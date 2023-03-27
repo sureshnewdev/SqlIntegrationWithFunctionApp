@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SqlIntegrationWithFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7258",
+      "launchBrowser": false
+    }
+  }
+}
